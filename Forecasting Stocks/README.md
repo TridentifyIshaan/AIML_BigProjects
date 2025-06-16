@@ -21,5 +21,5 @@ The ![dataset](/Forecasting%20Stocks/INFY20002008.csv) includes the following fe
 ```
 
 For our time series, we will be considering only 2 features:
-    - Date
-    - Average Price.
+- Date
+- Average Price.
