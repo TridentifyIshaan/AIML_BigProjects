@@ -80,3 +80,9 @@ uv add libraryname
 ```sh
 uv add -r requirements.txt
 ```
+
+### Sync to latest python version
+
+```sh
+uv venv --python 3.14 && uv sync
+```
