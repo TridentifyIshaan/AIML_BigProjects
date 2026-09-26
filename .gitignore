@@ -1,3 +1,5 @@
-
-# Local large dataset files
-8. Climate Misinformation Detector/climate_data.csv
+*.env
+*.python-version
+pyproject.toml
+uv.lock
+src
